@@ -1,0 +1,14 @@
+{
+    "name": "s15239626761/demo10",
+    "description": "测试项目",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "songsong",
+            "email": "747149759@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
